@@ -79,7 +79,3 @@ json
   * POST /summarize: [https://5c20-34-106-64-117.ngrok-free.app/summarize](https://5c20-34-106-64-117.ngrok-free.app/summarize)
 
 ---
-
-## 📁 GitHub Repository
-
-* [https://github.com/Cliyac/Mood\_decode](https://github.com/Cliyac/Mood_decode)
